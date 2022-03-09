@@ -1,2 +1,2 @@
-# -watt
-Moeda baseada em energia 
+watt
+Energy based currency
